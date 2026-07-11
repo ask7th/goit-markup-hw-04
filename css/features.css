@@ -10,3 +10,16 @@
 .features-item-title {
   margin-bottom: 8px;
 }
+
+.features-icon {
+  height: 112px;
+  border: 1px solid var(--light-slate);
+  border-radius: 4px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  background: var(--cloud);
+  margin-bottom: 8px;
+}
